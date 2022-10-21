@@ -1,0 +1,16 @@
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyser.csproj.AssemblyReference.cache
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyser.AssemblyInfoInputs.cache
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyser.AssemblyInfo.cs
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\KoceilaHallou\source\repos\NuGet\Debug\net6.0\manifest\manifest.ism
+C:\Users\KoceilaHallou\source\repos\NuGet\Debug\net6.0\MediaAnalyser.deps.json
+C:\Users\KoceilaHallou\source\repos\NuGet\Debug\net6.0\MediaAnalyser.runtimeconfig.json
+C:\Users\KoceilaHallou\source\repos\NuGet\Debug\net6.0\MediaAnalyser.dll
+C:\Users\KoceilaHallou\source\repos\NuGet\Debug\net6.0\MediaAnalyser.pdb
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyser.csproj.CopyComplete
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyser.dll
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\refint\MediaAnalyser.dll
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyser.pdb
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyser.genruntimeconfig.cache
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\ref\MediaAnalyser.dll

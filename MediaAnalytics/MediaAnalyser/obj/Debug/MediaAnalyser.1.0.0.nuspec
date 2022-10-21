@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MediaAnalyser</id>
+    <version>1.0.0</version>
+    <authors>MediaAnalyser</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Analyser_Context" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Common_Utils" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Azure.Identity" version="1.7.0" exclude="Build,Analyzers" />
+        <dependency id="Azure.Messaging.EventGrid" version="4.11.0" exclude="Build,Analyzers" />
+        <dependency id="Azure.Messaging.EventHubs.Processor" version="5.7.3" exclude="Build,Analyzers" />
+        <dependency id="Azure.Storage.Blobs" version="12.14.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Azure.Management.Media" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="6.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.EnvironmentVariables" version="6.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\KoceilaHallou\source\repos\NuGet\Debug\net6.0\MediaAnalyser.runtimeconfig.json" target="lib\net6.0\MediaAnalyser.runtimeconfig.json" />
+    <file src="C:\Users\KoceilaHallou\source\repos\NuGet\Debug\net6.0\MediaAnalyser.dll" target="lib\net6.0\MediaAnalyser.dll" />
+  </files>
+</package>

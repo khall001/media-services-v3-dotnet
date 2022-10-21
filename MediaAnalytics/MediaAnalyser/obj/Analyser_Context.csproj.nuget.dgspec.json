@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\KoceilaHallou\\source\\repos\\VideoAnlyser\\khall001\\media-services-v3-dotnet\\Analyser_Context\\Analyser_Context.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\KoceilaHallou\\source\\repos\\VideoAnlyser\\khall001\\media-services-v3-dotnet\\Analyser_Context\\Analyser_Context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KoceilaHallou\\source\\repos\\VideoAnlyser\\khall001\\media-services-v3-dotnet\\Analyser_Context\\Analyser_Context.csproj",
+        "projectName": "MediaAnalyzer",
+        "projectPath": "C:\\Users\\KoceilaHallou\\source\\repos\\VideoAnlyser\\khall001\\media-services-v3-dotnet\\Analyser_Context\\Analyser_Context.csproj",
+        "packagesPath": "C:\\Users\\KoceilaHallou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KoceilaHallou\\source\\repos\\VideoAnlyser\\khall001\\media-services-v3-dotnet\\MediaAnalytics\\MediaAnalyser\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KoceilaHallou\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\KoceilaHallou\\source\\repos\\NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\KoceilaHallou\\source\\repos\\VideoAnlyser\\khall001\\Analyser_Context\\Analyser_Context.csproj": {
+                "projectPath": "C:\\Users\\KoceilaHallou\\source\\repos\\VideoAnlyser\\khall001\\Analyser_Context\\Analyser_Context.csproj"
+              },
+              "C:\\Users\\KoceilaHallou\\source\\repos\\VideoAnlyser\\khall001\\Common_Utils\\Common_Utils.csproj": {
+                "projectPath": "C:\\Users\\KoceilaHallou\\source\\repos\\VideoAnlyser\\khall001\\Common_Utils\\Common_Utils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\Analyser_Context\bin\Debug\net6.0\Analyser_Context.deps.json
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\Analyser_Context\bin\Debug\net6.0\Analyser_Context.runtimeconfig.json
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\Analyser_Context\bin\Debug\net6.0\Analyser_Context.dll
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\Analyser_Context\bin\Debug\net6.0\Analyser_Context.pdb
+C:\Users\KoceilaHallou\source\repos\NuGet\Debug\net6.0\Analyser_Context.deps.json
+C:\Users\KoceilaHallou\source\repos\NuGet\Debug\net6.0\Analyser_Context.runtimeconfig.json
+C:\Users\KoceilaHallou\source\repos\NuGet\Debug\net6.0\Analyser_Context.dll
+C:\Users\KoceilaHallou\source\repos\NuGet\Debug\net6.0\Analyser_Context.pdb
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.csproj.AssemblyReference.cache
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.AssemblyInfoInputs.cache
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.AssemblyInfo.cs
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.csproj.CoreCompileInputs.cache
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.dll
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\refint\Analyser_Context.dll
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.pdb
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.genruntimeconfig.cache
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\ref\Analyser_Context.dll
+C:\Users\KoceilaHallou\source\repos\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.csproj.AssemblyReference.cache
+C:\Users\KoceilaHallou\source\repos\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KoceilaHallou\source\repos\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.AssemblyInfoInputs.cache
+C:\Users\KoceilaHallou\source\repos\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.AssemblyInfo.cs
+C:\Users\KoceilaHallou\source\repos\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.csproj.CoreCompileInputs.cache
+C:\Users\KoceilaHallou\source\repos\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.dll
+C:\Users\KoceilaHallou\source\repos\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\refint\Analyser_Context.dll
+C:\Users\KoceilaHallou\source\repos\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.pdb
+C:\Users\KoceilaHallou\source\repos\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.genruntimeconfig.cache
+C:\Users\KoceilaHallou\source\repos\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\ref\Analyser_Context.dll
+C:\Users\KoceilaHallou\source\repos\Imory Media Analyzer\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.csproj.AssemblyReference.cache
+C:\Users\KoceilaHallou\source\repos\Imory Media Analyzer\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KoceilaHallou\source\repos\Imory Media Analyzer\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.AssemblyInfoInputs.cache
+C:\Users\KoceilaHallou\source\repos\Imory Media Analyzer\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.AssemblyInfo.cs
+C:\Users\KoceilaHallou\source\repos\Imory Media Analyzer\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.csproj.CoreCompileInputs.cache
+C:\Users\KoceilaHallou\source\repos\Imory Media Analyzer\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.dll
+C:\Users\KoceilaHallou\source\repos\Imory Media Analyzer\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\refint\Analyser_Context.dll
+C:\Users\KoceilaHallou\source\repos\Imory Media Analyzer\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.pdb
+C:\Users\KoceilaHallou\source\repos\Imory Media Analyzer\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\Analyser_Context.genruntimeconfig.cache
+C:\Users\KoceilaHallou\source\repos\Imory Media Analyzer\media-services-v3-dotnet\Analyser_Context\obj\Debug\net6.0\ref\Analyser_Context.dll

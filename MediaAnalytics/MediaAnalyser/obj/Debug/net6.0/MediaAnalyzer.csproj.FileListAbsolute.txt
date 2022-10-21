@@ -1,0 +1,37 @@
+C:\Users\KoceilaHallou\source\repos\NuGet\Debug\net6.0\MediaAnalyzer.deps.json
+C:\Users\KoceilaHallou\source\repos\NuGet\Debug\net6.0\MediaAnalyzer.runtimeconfig.json
+C:\Users\KoceilaHallou\source\repos\NuGet\Debug\net6.0\MediaAnalyzer.dll
+C:\Users\KoceilaHallou\source\repos\NuGet\Debug\net6.0\MediaAnalyzer.pdb
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.csproj.AssemblyReference.cache
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.AssemblyInfoInputs.cache
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.AssemblyInfo.cs
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.csproj.CopyComplete
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.dll
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\refint\MediaAnalyzer.dll
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.pdb
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.genruntimeconfig.cache
+C:\Users\KoceilaHallou\source\repos\VideoAnlyser\khall001\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\ref\MediaAnalyzer.dll
+C:\Users\KoceilaHallou\source\repos\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.csproj.AssemblyReference.cache
+C:\Users\KoceilaHallou\source\repos\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KoceilaHallou\source\repos\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.AssemblyInfoInputs.cache
+C:\Users\KoceilaHallou\source\repos\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.AssemblyInfo.cs
+C:\Users\KoceilaHallou\source\repos\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\KoceilaHallou\source\repos\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.csproj.CopyComplete
+C:\Users\KoceilaHallou\source\repos\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.dll
+C:\Users\KoceilaHallou\source\repos\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\refint\MediaAnalyzer.dll
+C:\Users\KoceilaHallou\source\repos\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.pdb
+C:\Users\KoceilaHallou\source\repos\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.genruntimeconfig.cache
+C:\Users\KoceilaHallou\source\repos\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\ref\MediaAnalyzer.dll
+C:\Users\KoceilaHallou\source\repos\Imory Media Analyzer\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.csproj.AssemblyReference.cache
+C:\Users\KoceilaHallou\source\repos\Imory Media Analyzer\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KoceilaHallou\source\repos\Imory Media Analyzer\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.AssemblyInfoInputs.cache
+C:\Users\KoceilaHallou\source\repos\Imory Media Analyzer\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.AssemblyInfo.cs
+C:\Users\KoceilaHallou\source\repos\Imory Media Analyzer\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\KoceilaHallou\source\repos\Imory Media Analyzer\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.csproj.CopyComplete
+C:\Users\KoceilaHallou\source\repos\Imory Media Analyzer\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.dll
+C:\Users\KoceilaHallou\source\repos\Imory Media Analyzer\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\refint\MediaAnalyzer.dll
+C:\Users\KoceilaHallou\source\repos\Imory Media Analyzer\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.pdb
+C:\Users\KoceilaHallou\source\repos\Imory Media Analyzer\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\MediaAnalyzer.genruntimeconfig.cache
+C:\Users\KoceilaHallou\source\repos\Imory Media Analyzer\media-services-v3-dotnet\MediaAnalytics\MediaAnalyser\obj\Debug\net6.0\ref\MediaAnalyzer.dll

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Analyser_Context</id>
+    <version>1.0.0</version>
+    <authors>Analyser_Context</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="EntityFramework" version="6.4.4" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\KoceilaHallou\source\repos\NuGet\Debug\net6.0\Analyser_Context.runtimeconfig.json" target="lib\net6.0\Analyser_Context.runtimeconfig.json" />
+    <file src="C:\Users\KoceilaHallou\source\repos\NuGet\Debug\net6.0\Analyser_Context.dll" target="lib\net6.0\Analyser_Context.dll" />
+  </files>
+</package>

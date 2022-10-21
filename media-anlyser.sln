@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1308567E-4030-4730-87C2-94DBAC602732}"
+	ProjectSection(SolutionItems) = preProject
+		.env = .env
+		.gitignore = .gitignore
+		CHANGELOG.md = CHANGELOG.md
+		CONTRIBUTING.md = CONTRIBUTING.md
+		LICENSE.md = LICENSE.md
+		README.md = README.md
+		sample.env = sample.env
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Analyser_Context", "Analyser_Context\Analyser_Context.csproj", "{BBB5748E-2CF5-4D58-80EB-C8165FEB3A97}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MediaAnalytics", "MediaAnalytics", "{CD636EE4-B8E0-4AA3-BAC0-2436F9374045}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediaAnalyzer", "MediaAnalytics\MediaAnalyser\MediaAnalyzer.csproj", "{C8EE26A4-8C14-43D3-9F83-DE77B3B1F45F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBB5748E-2CF5-4D58-80EB-C8165FEB3A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB5748E-2CF5-4D58-80EB-C8165FEB3A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB5748E-2CF5-4D58-80EB-C8165FEB3A97}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BBB5748E-2CF5-4D58-80EB-C8165FEB3A97}.Debug|x64.Build.0 = Debug|Any CPU
+		{BBB5748E-2CF5-4D58-80EB-C8165FEB3A97}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BBB5748E-2CF5-4D58-80EB-C8165FEB3A97}.Debug|x86.Build.0 = Debug|Any CPU
+		{BBB5748E-2CF5-4D58-80EB-C8165FEB3A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB5748E-2CF5-4D58-80EB-C8165FEB3A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB5748E-2CF5-4D58-80EB-C8165FEB3A97}.Release|x64.ActiveCfg = Release|Any CPU
+		{BBB5748E-2CF5-4D58-80EB-C8165FEB3A97}.Release|x64.Build.0 = Release|Any CPU
+		{BBB5748E-2CF5-4D58-80EB-C8165FEB3A97}.Release|x86.ActiveCfg = Release|Any CPU
+		{BBB5748E-2CF5-4D58-80EB-C8165FEB3A97}.Release|x86.Build.0 = Release|Any CPU
+		{C8EE26A4-8C14-43D3-9F83-DE77B3B1F45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8EE26A4-8C14-43D3-9F83-DE77B3B1F45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8EE26A4-8C14-43D3-9F83-DE77B3B1F45F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C8EE26A4-8C14-43D3-9F83-DE77B3B1F45F}.Debug|x64.Build.0 = Debug|Any CPU
+		{C8EE26A4-8C14-43D3-9F83-DE77B3B1F45F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C8EE26A4-8C14-43D3-9F83-DE77B3B1F45F}.Debug|x86.Build.0 = Debug|Any CPU
+		{C8EE26A4-8C14-43D3-9F83-DE77B3B1F45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8EE26A4-8C14-43D3-9F83-DE77B3B1F45F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8EE26A4-8C14-43D3-9F83-DE77B3B1F45F}.Release|x64.ActiveCfg = Release|Any CPU
+		{C8EE26A4-8C14-43D3-9F83-DE77B3B1F45F}.Release|x64.Build.0 = Release|Any CPU
+		{C8EE26A4-8C14-43D3-9F83-DE77B3B1F45F}.Release|x86.ActiveCfg = Release|Any CPU
+		{C8EE26A4-8C14-43D3-9F83-DE77B3B1F45F}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C8EE26A4-8C14-43D3-9F83-DE77B3B1F45F} = {CD636EE4-B8E0-4AA3-BAC0-2436F9374045}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DAB230D-4F3C-4230-9C72-C8B5198E2064}
+	EndGlobalSection
+EndGlobal
